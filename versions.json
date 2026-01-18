@@ -1,0 +1,6 @@
+{
+  "blocked_versions": ["6.27.0.0", "6.27.1.0", "6.27.1.1"],
+  "latest_version": "6.29.0.0",
+  "minimum_version": "1.2.0",
+  "message": "Update required for critical fixes"
+}
